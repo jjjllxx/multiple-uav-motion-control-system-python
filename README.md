@@ -1,7 +1,7 @@
-# Multiple-UAV-Motion-Control-System-Python
+# multiple-uav-motion-control-system-python
 Python version for multiple UAV motion control system
 
-Original Matlab Version: [Multiple-UAV-motion-control-system](https://github.com/jjjllxx/Multiple-UAV-Motion-Control-System.git)
+Original Matlab Version: [multiple-uav-motion-control-system-python](https://github.com/jjjllxx/multiple-uav-motion-control-system-python.git)
 
 This repo converts most of the functions in original repo from Matlab to Python.  
 I cleaned up and refactored the code for better readability.
